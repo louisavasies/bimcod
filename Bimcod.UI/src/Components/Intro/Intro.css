@@ -1,0 +1,109 @@
+ 
+@font-face {
+  font-family: neon;
+  src: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/707108/neon.ttf);
+}
+
+.main-container {
+    width: 100%;
+    height: 100%;
+    background-image: url('../../media/m2.jpg');
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    overflow: auto;
+}
+
+.intro-container {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+
+}
+
+.c1 {
+  font-family: 'Edition-Regular';
+  color: #81C4FF;
+  font-size: 9vw;
+  text-shadow: 0 0 3vw #68b8ff;
+  position: fixed;
+  top: 100px;
+}
+
+.c2 {
+  font-family: 'Edition-Regular';
+  color: #16588E;
+  font-size: 9vw;
+  text-shadow: 0 0 3vw #134a78;
+  position: fixed;
+  top: 200px;
+}
+
+.c3 {
+    font-family: 'Edition-Regular';
+    color: #E7222E;
+    font-size: 9vw;
+    text-shadow: 0 0 3vw #d81723;
+    position: fixed;
+    top: 300px;
+  }
+
+.c1 {
+  animation: neon 1s ease infinite;
+  -moz-animation: neon 1s ease infinite;
+  -webkit-animation: neon 1s ease infinite;
+}
+
+@keyframes c1 {
+  0%,
+  100% {
+    text-shadow: 0 0 1vw #81C4FF, 0 0 3vw #81C4FF, 0 0 10vw #81C4FF, 0 0 10vw #81C4FF, 0 0 .4vw #35a0ff, .5vw .5vw .1vw #35a0ff;
+    color: #FED128;
+  }
+}
+
+.c2 {
+  animation: flux 2s linear infinite;
+  -moz-animation: flux 2s linear infinite;
+  -webkit-animation: flux 2s linear infinite;
+  -o-animation: flux 2s linear infinite;
+}
+
+@keyframes c2{
+  0%,
+  100% {
+    text-shadow: 0 0 1vw #35d3ff, 0 0 3vw #35d3ff, 0 0 10vw #35d3ff, 0 0 10vw #35d3ff, 0 0 .4vw #8BFDFE, .5vw .5vw .1vw white;
+    color: #FED128;
+  }
+}
+
+.c3 {
+    animation: flux 2s linear infinite;
+    -moz-animation: flux 2s linear infinite;
+    -webkit-animation: flux 2s linear infinite;
+    -o-animation: flux 2s linear infinite;
+  }
+  
+  @keyframes c3{
+    0%,
+    100% {
+      text-shadow: 0 0 1vw #ee676f, 0 0 3vw #ee676f, 0 0 10vw #ee676f, 0 0 10vw #ee676f, 0 0 .4vw #ee676f, .5vw .5vw .1vw white;
+      color: #FED128;
+    }
+  } 
+
+  .logo-image {
+    width: 400px;
+    height: 350px;
+    position: fixed;
+    bottom: 0;
+    top: 130px;
+    right: 0;
+}

@@ -1,0 +1,23 @@
+.login-button {
+    border: 2px solid white;
+    border-radius: 25px;
+    width:180px;
+    height:60px;
+    background: transparent;
+    background-size: 100%;
+    transition: all 0.2s linear;
+    color: white;
+    font-family: 'Edition-Regular';
+    font-size: 40px;
+    font-weight: 200;
+    position: fixed;
+    bottom: 20px;
+    right: 50px;
+}
+
+.login-button:hover {
+    transform: translateY(3px);
+}
+.login-button:active {
+    transform: translateY(5px);
+}

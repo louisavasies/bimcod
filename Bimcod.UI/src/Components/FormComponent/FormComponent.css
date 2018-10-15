@@ -1,0 +1,26 @@
+.form-component-container {
+    margin: auto;
+}
+
+.submit-button {
+    border: 2px solid white;
+    border-radius: 25px;
+    width:200px;
+    height:50px;
+    background: transparent;
+    background-size: 100%;
+    transition: all 0.2s linear;
+    color: white;
+    font-family: 'Nebulous';
+    font-size: 34px;
+    font-weight: 100;
+    position: relative;
+    margin-top: 50px;
+}
+
+.submit-button:hover {
+    transform: translateY(3px);
+}
+.submit-button:active {
+    transform: translateY(5px);
+}

@@ -1,0 +1,67 @@
+.homepage-container {
+    width: 100%;
+    height: 100%;
+    background-image: url('../../media/carbon.png');
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    overflow: auto;
+  }
+
+  .addcar-button {
+    border: 2px solid white;
+    border-radius: 25px;
+    width:180px;
+    height:60px;
+    background: transparent;
+    background-size: 100%;
+    transition: all 0.2s linear;
+    color: white;
+    font-family: 'Edition-Regular';
+    font-size: 40px;
+    font-weight: 200;
+    position: relative;
+    top: 100px;
+}
+
+.addcar-button:hover {
+    transform: translateY(3px);
+}
+.addcar-button:active {
+    transform: translateY(5px);
+}
+
+.selectcar-button {
+  border: 2px solid white;
+  border-radius: 25px;
+  width:180px;
+  height:60px;
+  background: transparent;
+  background-size: 100%;
+  transition: all 0.2s linear;
+  color: white;
+  font-family: 'Edition-Regular';
+  font-size: 40px;
+  font-weight: 200;
+  position: relative;
+  top: 150px;
+}
+
+.selectcar-button:hover {
+  transform: translateY(3px);
+}
+.selectcar-button:active {
+  transform: translateY(5px);
+}
+
+.begin {
+  position: relative;
+  transition: all 0.2s linear;
+  color: white;
+  font-family: 'Edition-Regular';
+  font-size: 70px;
+  font-weight: 200;
+}

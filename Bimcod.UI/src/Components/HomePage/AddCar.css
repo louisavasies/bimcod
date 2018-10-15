@@ -1,0 +1,221 @@
+.car-photo {
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 20px; 
+}
+
+.car-container {
+    max-width: 100px;
+    width: auto;
+    height: auto;
+    margin-bottom: 20px;
+    margin-right: 5px; 
+}
+
+.model {
+    font-family: 'Edition-Regular';
+    color: white;
+    font-size: 46px;
+    font-weight: 200;
+    position: relative;
+    top: -120px;
+    right: -130px;
+}
+
+.type {
+    font-family: 'Edition-Regular';
+    color: white;
+    font-size: 60px;
+    font-weight: 200;
+    position: relative;
+    background: transparent;
+    width: 100px;
+    border: 1px solid white;
+    margin-left: 50px;
+}
+
+.type-container {
+    bottom: 0;
+    justify-content: center;
+    margin-top: 116px;
+    margin-left: 150px;
+}
+
+.addcarbutton {
+    font-family: 'Edition-Regular';
+    color: white;
+    font-size: 60px;
+    font-weight: 200;
+    position: relative;
+    background: transparent;
+    width: 200px;
+    border: 1px solid white;
+    margin-left: -20px;
+}
+
+.addcarbutton-container {
+    bottom: 0;
+    justify-content: center;
+    margin-top: 316px;
+    margin-left: -187px;
+}
+
+.cars-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: flex;
+    margin-top: 50px;
+}
+
+.e60 {
+    background-image: url('../../media/e60.jpg');
+    background-size: cover;
+    width: 180px;
+    height: 120px;
+    border: 2px solid white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.e61 {
+    background-image: url('../../media/e61.jpg');
+    background-size: cover;
+    width: 180px;
+    height: 120px;
+    border: 2px solid white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.f10 {
+    background-image: url('../../media/f10.jpg');
+    background-size: cover;
+    width: 180px;
+    height: 120px;
+    border: 2px solid white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.f11 {
+    background-image: url('../../media/f11.jpg');
+    background-size: cover;
+    width: 180px;
+    height: 120px;
+    border: 2px solid white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.e90 {
+    background-image: url('../../media/e90.jpg');
+    background-size: cover;
+    width: 180px;
+    height: 120px;
+    border: 2px solid white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.e91 {
+    background-image: url('../../media/e91.jpg');
+    background-size: cover;
+    width: 180px;
+    height: 120px;
+    border: 2px solid white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.e92 {
+    background-image: url('../../media/e92.jpg');
+    background-size: cover;
+    width: 180px;
+    height: 120px;
+    border: 2px solid white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.e93 {
+    background-image: url('../../media/e93.jpg');
+    background-size: cover;
+    width: 180px;
+    height: 120px;
+    border: 2px solid white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.f30 {
+    background-image: url('../../media/f30.jpg');
+    background-size: cover;
+    width: 180px;
+    height: 120px;
+    border: 2px solid white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.f31 {
+    background-image: url('../../media/f31.jpg');
+    background-size: cover;
+    width: 180px;
+    height: 120px;
+    border: 2px solid white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.f34 {
+    background-image: url('../../media/f34.jpg');
+    background-size: cover;
+    width: 180px;
+    height: 120px;
+    border: 2px solid white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.f07 {
+    background-image: url('../../media/f07.jpg');
+    background-size: cover;
+    width: 180px;
+    height: 120px;
+    border: 2px solid white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.addcarbutton:hover, .type:hover{
+    transform: translateY(3px);
+    background-color: black;
+}
+.addcarbutton:active, .type:active{
+    transform: translateY(5px);
+}
+
+.e60:hover, .e61:hover, .f10:hover, .f11:hover {
+    transform: translateY(3px);
+}
+.e60:active, .e61:active, .f10:active, .f11:active {
+    transform: translateY(5px);
+}
+
+.e90:hover, .e91:hover, .e92:hover, .e93:hover {
+    transform: translateY(3px);
+}
+.e90:active, .e91:active, .e92:active, .e93:active {
+    transform: translateY(5px);
+}
+
+.f30:hover, .f31:hover, .f34:hover, .f07:hover {
+    transform: translateY(3px);
+}
+.f30:active, .f31:active, .f34:active, .f07:active {
+    transform: translateY(5px);
+}
+
+
+

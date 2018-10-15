@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Bimcod\Bimcod.Api\obj\Release\netcoreapp2.1\Bimcod.Api.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Bimcod\Bimcod.Api\obj\Release\netcoreapp2.1\Bimcod.Api.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bimcod\Bimcod.Api\obj\Release\netcoreapp2.1\Bimcod.Api.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\Bimcod\Bimcod.Api\obj\Release\netcoreapp2.1\Bimcod.Api.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\Bimcod\Bimcod.Api\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\User\source\repos\Bimcod\Bimcod.Api\obj\Release\netcoreapp2.1\Bimcod.Api.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Bimcod\Bimcod.Api\obj\Release\netcoreapp2.1\Bimcod.Api.AssemblyInfo.cs
+C:\Users\User\source\repos\Bimcod\Bimcod.Api\bin\Release\netcoreapp2.1\Bimcod.Api.deps.json
+C:\Users\User\source\repos\Bimcod\Bimcod.Api\bin\Release\netcoreapp2.1\Bimcod.Api.runtimeconfig.json
+C:\Users\User\source\repos\Bimcod\Bimcod.Api\bin\Release\netcoreapp2.1\Bimcod.Api.runtimeconfig.dev.json
+C:\Users\User\source\repos\Bimcod\Bimcod.Api\bin\Release\netcoreapp2.1\Bimcod.Api.dll
+C:\Users\User\source\repos\Bimcod\Bimcod.Api\bin\Release\netcoreapp2.1\Bimcod.Api.pdb
+C:\Users\User\source\repos\Bimcod\Bimcod.Api\obj\Release\netcoreapp2.1\Bimcod.Api.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\Bimcod\Bimcod.Api\obj\Release\netcoreapp2.1\Bimcod.Api.dll
+C:\Users\User\source\repos\Bimcod\Bimcod.Api\obj\Release\netcoreapp2.1\Bimcod.Api.pdb

@@ -1,0 +1,16 @@
+body {
+    background-image: url('../../media/e60wall.jpg');
+    background-color: white; 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+ }
+
+ .credentials {
+    color: white;
+    font-family: 'Lovely';
+    font-size: 34px;
+    font-weight: 50;
+    position: fixed;
+    bottom: 20px;
+    left: 50px;
+ }

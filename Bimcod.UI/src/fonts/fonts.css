@@ -1,0 +1,63 @@
+@font-face {
+    font-family : 'Edition-Regular';
+    src: url('Edition-Regular.woff') format('woff');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family : 'Curvy';
+    src: url('Curvy.woff') format('woff');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family : 'CodePredators';
+    src: url('CodePredators.ttf') format('ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family : 'Nebulous';
+    src: url('Nebulous.woff') format('woff');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family : 'Lovely';
+    src: url('Lovely fabulous.woff') format('woff');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family : 'Shamery';
+    src: url('shamery.woff') format('woff');
+    font-weight: normal;
+}
+
+
+@font-face {
+    font-family: 'dk_lemon_yellow_sunregular';
+    src: url('dk_lemon_yellow_sun.woff2') format('woff2'),
+         url('dk_lemon_yellow_sun.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Arial Narrow';
+    src: url('ARIALN.TTF') format('ttf');
+}
+
+@font-face {
+    font-family : 'Killa';
+    src: url('Killa.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family : 'Janda';
+    src: url('Janda.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

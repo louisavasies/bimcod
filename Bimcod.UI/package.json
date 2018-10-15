@@ -1,0 +1,48 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@aspnet/signalr": "^1.0.2",
+    "@material/snackbar": "^0.38.0",
+    "@types/material__snackbar": "^0.35.0",
+    "@types/randomstring": "^1.1.6",
+    "@types/react-bootstrap": "^0.32.11",
+    "@types/react-router-dom": "^4.3.0",
+    "axios": "^0.18.0",
+    "bootstrap": "^3.3.7",
+    "material-ui": "^0.20.2",
+    "node-snackbar": "^0.1.11",
+    "randomstring": "^1.1.5",
+    "react": "^16.5.2",
+    "react-bootstrap": "^0.32.1",
+    "react-bootstrap-4": "^0.29.1",
+    "react-bootstrap-dropdown-menu": "^1.1.15",
+    "react-dom": "^16.4.1",
+    "react-facebook-login": "^4.0.1",
+    "react-google-login": "^3.2.1",
+    "react-keyframes": "^0.2.3",
+    "react-motion-drawer": "^3.1.0",
+    "react-responsive-carousel": "^3.1.43",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts-ts": "^3.1.0"
+  },
+  "scripts": {
+    "build-css": "node-sass-chokidar src/ -o src/",
+    "watch-css": "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive",
+    "start": "react-scripts-ts start | npm run watch-css",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/jest": "^23.1.5",
+    "@types/node": "^10.5.2",
+    "@types/react": "^16.4.6",
+    "@types/react-dom": "^16.0.6",
+    "@types/react-facebook-login": "^3.6.5",
+    "mdbootstrap": "^4.5.12",
+    "typescript": "^2.9.2"
+  }
+}

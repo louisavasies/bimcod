@@ -1,0 +1,63 @@
+.submit-button {
+    border: 2px solid white;
+    border-radius: 25px;
+    width:200px;
+    height:50px;
+    background: transparent;
+    background-size: 100%;
+    transition: all 0.2s linear;
+    color: white;
+    font-family: 'Nebulous';
+    font-size: 34px;
+    font-weight: 100;
+    position: relative;
+    margin-top: 50px;
+}
+
+.submit-button:hover {
+    transform: translateY(3px);
+}
+.submit-button:active {
+    transform: translateY(5px);
+}
+
+.login-form-component-container {
+    margin: auto;
+    top: 200px;
+}
+
+.login-form-container .forget-pass {
+    font-family: 'Nebulous';
+    color: white;
+    font-size: 30px;
+    text-align: left;
+    padding: 0; }
+    .login-form-container .forget-pass:hover {
+      color: white; }
+  
+  .login-form-container a:visited {
+    color: #5db9c5; }
+  
+  .login-form-container .forget-remember {
+    margin-top: 20px;
+    justify-content: space-between;
+    display: flex; }
+  
+  .login-form-container .custom-checkbox.remember-me-checkbox {
+    border: none;
+    font-family: 'Nebulous';
+    color: white;
+    font-size: 30px;
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    user-select: none; }
+    .login-form-container .custom-checkbox.remember-me-checkbox .checkbox-display-container {
+      width: 1.3em;
+      height: 1.3em;
+      margin-left: 10px;
+      border: 1px solid white;
+      position: relative;
+      flex-shrink: 0; }
+  

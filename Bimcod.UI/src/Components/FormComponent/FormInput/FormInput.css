@@ -1,0 +1,33 @@
+.form-input-container .form-label {
+    margin: 0;
+    font-family: 'Nebulous';
+    font-size: 36px;
+    color: white;
+    transition: all 0.2s linear;
+    top: 20px;
+}
+
+.form-input-container .form-input {
+    padding: 4px 3px;
+    height: 37px;
+    border: 2px solid  grey;
+    color: #1E1E1E;
+    font-size: 18px;
+}
+
+.form-input-container .form-group {
+    position: relative;
+    display: block;
+    text-align: left;
+    margin-top: 20px;
+    font-size: 18px; 
+}
+
+.form-input-container .form-error {
+    height: 0;
+    right: 0;
+    color: #FF4500;
+    text-align: right;
+    font-family: 'ARIALN';
+    transition: all 0.2s linear;
+    font-size: 16px; }

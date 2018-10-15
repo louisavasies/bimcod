@@ -1,0 +1,21 @@
+.login-form-container {
+    position: relative;
+    top: 100px;
+    height: auto;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.gif-container {
+    width: 100%;
+    height: 100%;
+    background-image: url('../../media/m3.gif');
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    overflow: auto;
+}

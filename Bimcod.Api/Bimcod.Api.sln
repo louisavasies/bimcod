@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bimcod.Api", "Bimcod.Api.csproj", "{30A13C06-F914-4748-831E-54892C1E98CB}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "BimcodDB", "..\BimcodDB\BimcodDB.sqlproj", "{61DD65BE-C1FD-4F44-B386-74D89A226D31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30A13C06-F914-4748-831E-54892C1E98CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A13C06-F914-4748-831E-54892C1E98CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A13C06-F914-4748-831E-54892C1E98CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A13C06-F914-4748-831E-54892C1E98CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61DD65BE-C1FD-4F44-B386-74D89A226D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DD65BE-C1FD-4F44-B386-74D89A226D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DD65BE-C1FD-4F44-B386-74D89A226D31}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{61DD65BE-C1FD-4F44-B386-74D89A226D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DD65BE-C1FD-4F44-B386-74D89A226D31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61DD65BE-C1FD-4F44-B386-74D89A226D31}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C64247E0-BF5C-440F-9430-A63158E95575}
+	EndGlobalSection
+EndGlobal

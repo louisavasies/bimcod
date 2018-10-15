@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Bimcod\Bimcod\bin\Debug\netcoreapp2.1\Bimcod.deps.json
+C:\Users\User\source\repos\Bimcod\Bimcod\bin\Debug\netcoreapp2.1\Bimcod.runtimeconfig.json
+C:\Users\User\source\repos\Bimcod\Bimcod\bin\Debug\netcoreapp2.1\Bimcod.runtimeconfig.dev.json
+C:\Users\User\source\repos\Bimcod\Bimcod\bin\Debug\netcoreapp2.1\Bimcod.dll
+C:\Users\User\source\repos\Bimcod\Bimcod\obj\Debug\netcoreapp2.1\Bimcod.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Bimcod\Bimcod\obj\Debug\netcoreapp2.1\Bimcod.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bimcod\Bimcod\obj\Debug\netcoreapp2.1\Bimcod.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\Bimcod\Bimcod\obj\Debug\netcoreapp2.1\Bimcod.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\Bimcod\Bimcod\obj\Debug\netcoreapp2.1\Bimcod.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Bimcod\Bimcod\obj\Debug\netcoreapp2.1\Bimcod.AssemblyInfo.cs
+C:\Users\User\source\repos\Bimcod\Bimcod\obj\Debug\netcoreapp2.1\Bimcod.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\Bimcod\Bimcod\bin\Debug\netcoreapp2.1\Bimcod.pdb
+C:\Users\User\source\repos\Bimcod\Bimcod\obj\Debug\netcoreapp2.1\Bimcod.dll
+C:\Users\User\source\repos\Bimcod\Bimcod\obj\Debug\netcoreapp2.1\Bimcod.pdb
